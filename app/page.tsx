@@ -99,7 +99,7 @@ export default function Home() {
 
         <div className="flex-1 flex justify-center">
           <img
-            src="/spider-man.jpg"
+            src="/spider-man.jpeg"
             alt="Spider-Man"
             className="rounded-2xl shadow-2xl max-w-md w-full object-cover"
           />
